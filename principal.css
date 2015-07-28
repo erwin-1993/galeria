@@ -1,0 +1,23 @@
+.imgprincipal{text-align: center;
+			  }
+
+#imgprincipal{max-width:300px; max-height: 300px; }
+
+.galeria1{float: left; 
+	width: 300px; height: 250px; }
+
+.galeria2{float: left; 
+		  margin-left: 10px;
+		  width: 300px; height: 250px; }
+
+.galeria3{float: left; 
+		  margin-left: 20px;
+		  width: 300px; height: 250px; }
+
+.galeria4{float: right; 
+		  margin-left: 5px;
+		  width: 300px; height: 250px; }
+
+.galeria5{float: right; 
+		  margin-left: 5px;
+		  width: 300px; height: 250px; }
